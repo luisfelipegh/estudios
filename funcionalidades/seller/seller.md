@@ -1,0 +1,6 @@
+# Seller
+
+
+# nombre 
+
+# apellido 
